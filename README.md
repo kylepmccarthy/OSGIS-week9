@@ -12,22 +12,21 @@
     - Bounding box construction `turf.envelope`
     - Counting within (a spatial join) `turf.count`
   - Interactive demonstration
-    - Measurement extraction
-      - Find point a certain distance down some linestring
-      - Extract the area of a polygon
-      - Random point within polygon (more useful than you might think)
-    - Aggregation and analysis
-    - Other stuff (classification, interpolation, utility methods)
-  - Unit conversion
-    - mathjs
-    - js-quantities
-  - Working with colors
-    - [color brewer 2.0](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
-    - chroma.js
-      - Color construction
-      - Color scales
-      - Color spaces
-      - Color blending
+    - Find point a certain distance down some linestring
+    - Extract the area of a polygon
+    - Random point on feature (more useful than you might think)
+    - Voronoi (very useful!)
+    - Line arc construction
+- Unit conversion
+  - mathjs
+  - js-quantities
+- Working with colors
+  - [color brewer 2.0](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
+  - chroma.js
+    - Color construction
+    - Color scales
+    - Color spaces
+    - Color blending
 - Charts.js
   - [Setup](https://www.chartjs.org/docs/latest/#creating-a-chart)
   - [Example: Radar chart/RPG characters](https://www.chartjs.org/docs/latest/charts/radar.html)
