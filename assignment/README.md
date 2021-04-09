@@ -15,7 +15,7 @@ It will illustrate the portion of the population vaccinated (both partially and 
 ### Plot Zipcode Polygons
 
 Once you've got a functional leaflet map in place, it is time to plot the polygons which are associated with zip codes.
-It might be wise to convert zip codes from strings at this point!
+Get the geojson [here](https://raw.githubusercontent.com/CPLN692-MUSA611-Open-Source-GIS/datasets/master/geojson/Zipcodes_Poly.geojson)
 
 
 ### Load the vaccination by zip code lookup table
